@@ -1,0 +1,8 @@
+groupId : com.vvce.lab
+artifactId : selenium-demo
+dependencies : selenium-java // add dependency in pom.xml
+archetype : maven-archetype-quickstart / org.apache.maven.archetypes
+Create maven project
+Create src\main\java\LoginTest.java 
+Add login.html file to the project folder
+Run As -> Java Application
